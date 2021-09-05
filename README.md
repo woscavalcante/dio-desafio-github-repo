@@ -6,10 +6,13 @@ Repositório criado para o Desafio de Projeto.
 
 ## Projetos
 
-### [Pessoa Física](https://github.com/woscavalcante/dio-desafio-github-repo/tree/main/PessoaFisica)
+#### [Pessoa Física](https://github.com/woscavalcante/dio-desafio-github-repo/tree/main/PessoaFisica)
 Estudo que implementa o encapsulamento e construtores customizados.
+Editor *Sublime Text*, compilado via *prompt*.
 
-### [Conversor de Temperatura](https://github.com/woscavalcante/dio-desafio-github-repo/tree/main/ConversorTemperatura)
+
+#### [Conversor de Temperatura](https://github.com/woscavalcante/dio-desafio-github-repo/tree/main/ConversorTemperatura)
 Estudo que implementa métodos *static*.
+Editor *Sublime Text*, compilado via *prompt*.
 
 
